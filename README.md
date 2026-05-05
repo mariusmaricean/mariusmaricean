@@ -12,12 +12,13 @@ I design and ship intelligent mobile experiences by integrating LLMs, real-time 
 ### 🧠 AI Copilot iOS App
 
 AI assistant embedded directly into a mobile experience.
+AI-powered iOS copilot that turns notes into actions using LLMs.
 
 * Real-time streaming chat UI
 * Context-aware conversations
 * Function calling (AI triggers in-app actions)
 
-🔗 Repo | 🎥 Demo\
+🔗 Repo https://github.com/mariusmaricean/ai-copilot-ios  
 👉 *Production-style AI integration in a real iOS app*
 
 ---
@@ -30,7 +31,7 @@ Autonomous AI that plans trips end-to-end.
 * External API integrations
 * Persistent memory
 
-🔗 Repo | 🎥 Demo\
+🔗 Repo\
 👉 *Agent-based systems adapted for mobile UX*
 
 ---
@@ -42,7 +43,7 @@ Voice-first AI experience with real-time interaction.
 * Speech-to-text + LLM + text-to-speech
 * Low-latency streaming UX
 
-🔗 Repo | 🎥 Demo\
+🔗 Repo\
 👉 *Exploring next-gen mobile interfaces*
 
 ---
@@ -55,7 +56,7 @@ AI-powered developer assistant.
 * Code insights
 * GitHub integration
 
-🔗 Repo | 🎥 Demo\
+🔗 Repo\
 👉 *AI applied to developer productivity*
 
 ---
