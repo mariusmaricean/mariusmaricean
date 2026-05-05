@@ -32,7 +32,7 @@ Autonomous AI that plans trips end-to-end.
 * External API integrations
 * Persistent memory
 
-🔗 Repo\
+🔗 Repo (coming soon)\
 👉 *Agent-based systems adapted for mobile UX*
 
 ---
@@ -44,7 +44,7 @@ Voice-first AI experience with real-time interaction.
 * Speech-to-text + LLM + text-to-speech
 * Low-latency streaming UX
 
-🔗 Repo\
+🔗 Repo (coming soon)\
 👉 *Exploring next-gen mobile interfaces*
 
 ---
@@ -57,7 +57,7 @@ AI-powered developer assistant.
 * Code insights
 * GitHub integration
 
-🔗 Repo\
+🔗 Repo (coming soon)\
 👉 *AI applied to developer productivity*
 
 ---
