@@ -84,8 +84,8 @@ AI-powered developer assistant.
 
 ## 📫 Connect with me
 
-* LinkedIn: [your-link]
-* GitHub: [your-username]
+* LinkedIn: https://www.linkedin.com/in/marius-maricean/
+* GitHub: mariusmaricean
 
 ---
 
