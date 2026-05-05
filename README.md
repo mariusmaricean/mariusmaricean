@@ -1,46 +1,49 @@
-## 👋 Hi, I'm Marius
+# 👋 Hi, I'm Marius
 
-## Senior iOS Engineer building AI-powered mobile products
+### Senior iOS Engineer building AI-powered mobile products
 
-I focus on integrating LLMs, real-time experiences, and scalable architectures into high-impact apps.
-10+ years delivering production-grade mobile solutions across fintech, IoT, and enterprise systems.
+I design and ship intelligent mobile experiences by integrating LLMs, real-time systems, and scalable architectures.
+10+ years delivering production-grade apps across fintech, IoT, and enterprise platforms.
 
 ---
 
 ## 🚀 Featured Projects
 
-## 🧠 AI Copilot iOS App
+### 🧠 AI Copilot iOS App
 
-AI-powered assistant embedded in a mobile app experience.
+AI assistant embedded directly into a mobile experience.
 
-* Streaming chat UI (real-time responses)
+* Real-time streaming chat UI
 * Context-aware conversations
-* Function calling (AI triggers app actions)
+* Function calling (AI triggers in-app actions)
 
-👉 *Showcases production-ready AI integration in iOS*
+🔗 Repo | 🎥 Demo
+👉 *Production-style AI integration in a real iOS app*
 
 ---
 
-## 🤖 AI Agent – Travel Planner
+### 🤖 AI Agent – Travel Planner
 
 Autonomous AI that plans trips end-to-end.
 
-* Multi-step reasoning
-* API integrations (flights, hotels, etc.)
+* Multi-step reasoning workflows
+* External API integrations
 * Persistent memory
 
-👉 *Demonstrates agent-based workflows on mobile*
+🔗 Repo | 🎥 Demo
+👉 *Agent-based systems adapted for mobile UX*
 
 ---
 
-## 🎙️ Voice AI Coach
+### 🎙️ Voice AI Coach
 
-Voice-first AI experience for real-time interaction.
+Voice-first AI experience with real-time interaction.
 
 * Speech-to-text + LLM + text-to-speech
 * Low-latency streaming UX
 
-👉 *Explores next-gen mobile interfaces*
+🔗 Repo | 🎥 Demo
+👉 *Exploring next-gen mobile interfaces*
 
 ---
 
@@ -52,7 +55,8 @@ AI-powered developer assistant.
 * Code insights
 * GitHub integration
 
-👉 *Combines AI + developer productivity*
+🔗 Repo | 🎥 Demo
+👉 *AI applied to developer productivity*
 
 ---
 
@@ -60,16 +64,16 @@ AI-powered developer assistant.
 
 * iOS Development (Swift, SwiftUI, UIKit)
 * AI Integration (LLMs, agents, prompt design)
-* Real-time UX (streaming, async systems)
-* Scalable Mobile Architecture
+* Real-time systems (streaming, async workflows)
+* Scalable mobile architecture
 
 ---
 
 ## ⚡ Current Focus
 
 * AI-native mobile experiences
-* LLM-powered features & assistants
-* On-device AI & Apple ecosystem
+* LLM-powered copilots & assistants
+* On-device AI within the Apple ecosystem
 
 ---
 
@@ -77,7 +81,7 @@ AI-powered developer assistant.
 
 **Mobile:** Swift, SwiftUI, UIKit
 **AI:** OpenAI API, function calling, prompt engineering
-**Backend (basic):** Node.js / Python
+**Backend:** Node.js / Python (light services)
 **Other:** REST APIs, async/await, modular architecture
 
 ---
@@ -85,9 +89,8 @@ AI-powered developer assistant.
 ## 📫 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/marius-maricean/
-* GitHub: mariusmaricean
+* GitHub: https://github.com/mariusmaricean
 
 ---
 
-> Building the next generation of intelligent mobile apps.
-
+> Building intelligent mobile products, not just apps.
