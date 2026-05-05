@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Marius
 
-### Senior iOS Engineer building AI-powered mobile products
+## Senior iOS Engineer building AI-powered mobile products
 
 I focus on integrating LLMs, real-time experiences, and scalable architectures into high-impact apps.
 10+ years delivering production-grade mobile solutions across fintech, IoT, and enterprise systems.
@@ -9,7 +9,7 @@ I focus on integrating LLMs, real-time experiences, and scalable architectures i
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Copilot iOS App
+## 🧠 AI Copilot iOS App
 
 AI-powered assistant embedded in a mobile app experience.
 
@@ -21,7 +21,7 @@ AI-powered assistant embedded in a mobile app experience.
 
 ---
 
-### 🤖 AI Agent – Travel Planner
+## 🤖 AI Agent – Travel Planner
 
 Autonomous AI that plans trips end-to-end.
 
@@ -33,7 +33,7 @@ Autonomous AI that plans trips end-to-end.
 
 ---
 
-### 🎙️ Voice AI Coach
+## 🎙️ Voice AI Coach
 
 Voice-first AI experience for real-time interaction.
 
