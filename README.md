@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Marius
+## 👋 Hi, I'm Marius
 
 ### Senior iOS Engineer building AI-powered mobile products
 
 I focus on integrating LLMs, real-time experiences, and scalable architectures into high-impact apps.
-7+ years delivering production-grade mobile solutions across fintech, IoT, and enterprise systems.
+10+ years delivering production-grade mobile solutions across fintech, IoT, and enterprise systems.
 
 ---
 
