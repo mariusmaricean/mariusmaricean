@@ -17,7 +17,7 @@ AI assistant embedded directly into a mobile experience.
 * Context-aware conversations
 * Function calling (AI triggers in-app actions)
 
-🔗 Repo | 🎥 Demo
+🔗 Repo | 🎥 Demo\
 👉 *Production-style AI integration in a real iOS app*
 
 ---
@@ -30,7 +30,7 @@ Autonomous AI that plans trips end-to-end.
 * External API integrations
 * Persistent memory
 
-🔗 Repo | 🎥 Demo
+🔗 Repo | 🎥 Demo\
 👉 *Agent-based systems adapted for mobile UX*
 
 ---
@@ -42,7 +42,7 @@ Voice-first AI experience with real-time interaction.
 * Speech-to-text + LLM + text-to-speech
 * Low-latency streaming UX
 
-🔗 Repo | 🎥 Demo
+🔗 Repo | 🎥 Demo\
 👉 *Exploring next-gen mobile interfaces*
 
 ---
@@ -55,7 +55,7 @@ AI-powered developer assistant.
 * Code insights
 * GitHub integration
 
-🔗 Repo | 🎥 Demo
+🔗 Repo | 🎥 Demo\
 👉 *AI applied to developer productivity*
 
 ---
@@ -79,9 +79,9 @@ AI-powered developer assistant.
 
 ## 🛠 Tech Stack
 
-**Mobile:** Swift, SwiftUI, UIKit
-**AI:** OpenAI API, function calling, prompt engineering
-**Backend:** Node.js / Python (light services)
+**Mobile:** Swift, SwiftUI, UIKit\
+**AI:** OpenAI API, function calling, prompt engineering\
+**Backend:** Node.js / Python (light services)\
 **Other:** REST APIs, async/await, modular architecture
 
 ---
