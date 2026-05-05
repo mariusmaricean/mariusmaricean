@@ -18,7 +18,7 @@ AI-powered iOS copilot that turns notes into actions using LLMs.
 * Context-aware conversations
 * Function calling (AI triggers in-app actions)
 
-🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-copilot-ios)
+🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-copilot-ios)\
 👉 *Production-style AI integration in a real iOS app*
 
 ---
