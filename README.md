@@ -2,7 +2,7 @@
 
 ### Senior iOS Engineer building AI-powered mobile products
 
-I design and ship intelligent mobile experiences by integrating LLMs, real-time systems, and scalable architectures.
+I design and ship intelligent mobile experiences by integrating LLMs, real-time systems, and scalable architectures.\
 10+ years delivering production-grade apps across fintech, IoT, and enterprise platforms.
 
 ---
