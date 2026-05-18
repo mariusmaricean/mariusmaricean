@@ -56,7 +56,7 @@ AI-powered developer assistant.
 * Code insights
 * GitHub integration
 
-🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)] https://github.com/mariusmaricean/ai-pr-review-assistant\
+🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-pr-review-assistant)\
 👉 *AI applied to developer productivity*
 
 ---
