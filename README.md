@@ -50,14 +50,14 @@ Voice-first AI experience with real-time interaction.
 
 ### ⚙️ AI PR Review Tool
 
-AI-powered developer assistant.
+AI PR Review Assistant is a repository-aware AI review platform
 
 * Pull request summaries
 * Code insights
 * GitHub integration
 
 🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-pr-review-assistant)\
-👉 *AI applied to developer productivity*
+👉 *Production-style AI integration in a real backend platform** 
 
 ---
 
