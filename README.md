@@ -57,7 +57,7 @@ AI PR Review Assistant is a repository-aware AI review platform
 * GitHub integration
 
 🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-pr-review-assistant)\
-👉 *Production-style AI integration in a real backend platform** 
+👉 *Production-style AI integration in a real backend platform*
 
 ---
 
