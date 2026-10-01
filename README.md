@@ -25,11 +25,12 @@ AI-powered iOS copilot that turns notes into actions using LLMs.
 
 ### 🤖 AI Agent – Travel Planner
 
-Autonomous AI that plans trips end-to-end.
+Autonomous AI that plans trips end-to-end on iOS.
 
 * Multi-step reasoning workflows
-* External API integrations
-* Persistent memory
+* External travel API integrations
+* Persistent traveler memory
+* Mobile-first SwiftUI experience
 
 🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-agent-travel-planner-iOS)\
 👉 *Agent-based systems adapted for mobile UX*
