@@ -31,7 +31,7 @@ Autonomous AI that plans trips end-to-end.
 * External API integrations
 * Persistent memory
 
-🔗 Repo (coming soon)\
+🔗 [![Repo](https://img.shields.io/badge/GitHub-View%20Project-black?logo=github)](https://github.com/mariusmaricean/ai-agent-travel-planner-iOS)\
 👉 *Agent-based systems adapted for mobile UX*
 
 ---
